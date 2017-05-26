@@ -1,0 +1,16 @@
+{
+  "name": "chatbot-claudia",
+  "version": "1.0.0",
+  "description": "AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ananda",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0",
+    "huh": "^2.0.1",
+    "node-fetch": "^1.7.0"
+  }
+}
